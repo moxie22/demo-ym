@@ -1,0 +1,254 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:825px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u12396_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:425px;
+  height:850px;
+}
+#u12396 {
+  position:absolute;
+  left:400px;
+  top:0px;
+  width:425px;
+  height:850px;
+}
+#u12397 {
+  position:absolute;
+  left:2px;
+  top:417px;
+  width:421px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12398_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:22px;
+}
+#u12398 {
+  position:absolute;
+  left:425px;
+  top:95px;
+  width:375px;
+  height:22px;
+}
+#u12399 {
+  position:absolute;
+  left:2px;
+  top:3px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12400_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:53px;
+  background:inherit;
+  background-color:rgba(55, 58, 65, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(55, 58, 65, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u12400 {
+  position:absolute;
+  left:425px;
+  top:117px;
+  width:375px;
+  height:53px;
+}
+#u12401 {
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12402_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:13px;
+  height:22px;
+}
+#u12402 {
+  position:absolute;
+  left:439px;
+  top:133px;
+  width:13px;
+  height:22px;
+}
+#u12403 {
+  position:absolute;
+  left:2px;
+  top:3px;
+  width:9px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12404_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:35px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u12404 {
+  position:absolute;
+  left:456px;
+  top:133px;
+  width:35px;
+  height:20px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u12405 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:35px;
+  white-space:nowrap;
+}
+#u12406_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:35px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u12406 {
+  position:absolute;
+  left:502px;
+  top:134px;
+  width:35px;
+  height:20px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u12407 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:35px;
+  white-space:nowrap;
+}
+#u12408_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:30px;
+  height:30px;
+}
+#u12408 {
+  position:absolute;
+  left:757px;
+  top:129px;
+  width:30px;
+  height:30px;
+}
+#u12409 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:26px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12410_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:69px;
+  height:20px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u12410 {
+  position:absolute;
+  left:584px;
+  top:134px;
+  width:69px;
+  height:20px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:17px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u12411 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:69px;
+  white-space:nowrap;
+}
